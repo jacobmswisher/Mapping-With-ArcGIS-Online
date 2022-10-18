@@ -4,7 +4,7 @@
 
 This overview provides a brief introduction to Geographic Information Systems (GIS) and some of the important processes and terms you will encounter as your learn more about GIS. Consider this section to be a resource that you can come back to throughout or after the workshop as needed.
 
-**If you don't want to read through this section now, you can skip ahead to [part 2 of the workshop](Sections/Part 2 - Getting to Know ArcGIS Online.md) and dive right into ArcGIS Online.**
+**If you don't want to read through this section now, you can skip ahead to [part 2 of the workshop](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md) and dive right into ArcGIS Online.**
 
 ### What is GIS?
 
