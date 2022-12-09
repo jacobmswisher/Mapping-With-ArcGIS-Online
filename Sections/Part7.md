@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%206%20-%20Data%20Visualization%20in%20ArcGIS%20Online.md)
+[<<< Previous](Part6.md)
 
 ## Part 7: Resources
 
