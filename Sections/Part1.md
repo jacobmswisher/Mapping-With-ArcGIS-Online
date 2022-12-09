@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](README.md) | [Next >>>](Sections/Part2.md)  
 
 ## Part 1: Geographic Information Systems - An Overview
 
@@ -73,4 +73,4 @@ Though we may not realize it, GIS appears regularly in our daily lives. Whether 
 
 From scholarly applications to professional use in various instutitional settings, the possibilites of what *you* can do with GIS are almost endless!
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](README.md) | [Next >>>](Sections/Part2.md)  
