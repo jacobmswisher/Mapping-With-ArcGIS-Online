@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%201%20-%20Geographic%20Information%20Systems%20-%20An%20Overview.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%203%20-%20Gathering%20Spatial%20Data.md)  
+[<<< Previous](Part1.md) | [Next >>>](Part3.md)  
 
 ## Part 2: Getting to Know ArcGIS Online
 
@@ -42,4 +42,4 @@ After poking around in the content tab, navigate to the Map Viewer by clicking o
 
 For this workshop, we will be spending most of our time in the Map Viewer. Though Map Viewer Classic currently has a wider selection of tools, ESRI is in the process of migrating ArcGIS Online's suite of tools to Map Viewer, which will eventually become the sole option for using ArcGIS Online.
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%201%20-%20Geographic%20Information%20Systems%20-%20An%20Overview.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%203%20-%20Gathering%20Spatial%20Data.md)  
+[<<< Previous](Part1.md) | [Next >>>](Part3.md)  
