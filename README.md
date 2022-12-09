@@ -1,4 +1,4 @@
-# Mapping with ArcGIS Online
+## Workshop Overview
 
 Welcome to the curriculum page for the Mapping with ArcGIS Online workshop.
 
