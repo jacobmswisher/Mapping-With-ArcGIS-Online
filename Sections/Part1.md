@@ -73,4 +73,4 @@ Though we may not realize it, GIS appears regularly in our daily lives. Whether 
 
 From scholarly applications to professional use in various instutitional settings, the possibilites of what *you* can do with GIS are almost endless!
 
-[<<< Previous](../README.md) | [Next >>>](Sections/Part2.md)  
+[<<< Previous](../README.md) | [Next >>>](Part2.md)  
