@@ -1,4 +1,4 @@
-[<<< Previous](Main/README.md) | [Next >>>](Part2.md)  
+[<<< Previous](../README.md) | [Next >>>](Part2.md)  
 
 ## Part 1: Geographic Information Systems - An Overview
 
