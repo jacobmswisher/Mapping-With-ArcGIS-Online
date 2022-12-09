@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%204%20-%20Creating%20and%20Editing%20Feature%20Layers.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%206%20-%20Data%20Visualization%20in%20ArcGIS%20Online.md)  
+[<<< Previous](Part4.md) | [Next >>>](Part6.md)  
 
 ## Part 5: Inquiry with Spatial Data
 
@@ -101,4 +101,4 @@ Congratulations! You have succesfully used filters to answer our workshop resear
 
 [Answer Key](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%207%20-%20Resources.md#exercise-5-answer-key)
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%204%20-%20Creating%20and%20Editing%20Feature%20Layers.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%206%20-%20Data%20Visualization%20in%20ArcGIS%20Online.md)  
+[<<< Previous](Part4.md) | [Next >>>](Part6.md)  
