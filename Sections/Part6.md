@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%205%20-%20Inquiry%20with%20Spatial%20Data.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%207%20-%20Resources.md)  
+[<<< Previous](Part5.md) | [Next >>>](Part7.md)  
 
 ## Part 6: Data Visualization in ArcGIS Online
 
@@ -84,4 +84,4 @@ Click the export button to export a pdf of your map with the default options and
 
 **Task: On your own, create at least two different data visualizations using Administrative Forest Boundaries or a layer of your choice. Choose a different field for each data visualization. Then, export at least one of your data visualizations using the print tool.**
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%205%20-%20Inquiry%20with%20Spatial%20Data.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%207%20-%20Resources.md)  
+[<<< Previous](Part5.md) | [Next >>>](Part7.md)  
