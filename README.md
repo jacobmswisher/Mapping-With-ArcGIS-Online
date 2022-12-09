@@ -20,10 +20,10 @@ After completing this workshop, you will be able to:
 
 1. [Geographic Information Systems - An Overview](Sections/Part1.md)
 2. [Getting to Know ArcGIS Online](Sections/Part2.md)
-3. [Gathering Spatial Data](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%203%20-%20Gathering%20Spatial%20Data.md)
-4. [Creating and Editing Feature Layers](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%204%20-%20Creating%20and%20Editing%20Feature%20Layers.md)
-5. [Inquiry with Spatial Data](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%205%20-%20Inquiry%20with%20Spatial%20Data.md)
-6. [Data Visualization in ArcGIS Online](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%206%20-%20Data%20Visualization%20in%20ArcGIS%20Online.md)
-7. [Resources](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%207%20-%20Resources.md)
+3. [Gathering Spatial Data](Sections/Part3.md)
+4. [Creating and Editing Feature Layers](Sections/Part4.md)
+5. [Inquiry with Spatial Data](Sections/Part5.md)
+6. [Data Visualization in ArcGIS Online](Sections/Part6.md)
+7. [Resources](Sections/Part7.md)
 
 [Get Started >>>](Sections/Part1.md)  
