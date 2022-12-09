@@ -18,7 +18,7 @@ After completing this workshop, you will be able to:
 
 ## Table of Contents
 
-1. [Geographic Information Systems - An Overview](Sections/Part 1 - Geographic Information Systems - An Overview.md)
+1. [Geographic Information Systems - An Overview](Sections/Part1.md)
 2. [Getting to Know ArcGIS Online](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)
 3. [Gathering Spatial Data](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%203%20-%20Gathering%20Spatial%20Data.md)
 4. [Creating and Editing Feature Layers](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%204%20-%20Creating%20and%20Editing%20Feature%20Layers.md)
