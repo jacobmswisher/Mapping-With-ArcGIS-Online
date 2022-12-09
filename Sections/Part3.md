@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%204%20-%20Creating%20and%20Editing%20Feature%20Layers.md)  
+[<<< Previous](Part2.md) | [Next >>>](Part4.md)  
 
 ## Part 3: Gathering Spatial Data
 
@@ -234,4 +234,4 @@ On your own, take some time to browse the internet and find some GIS data that i
 
 **Task: Find two datasets online and upload them to ArcGIS Online.**
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%204%20-%20Creating%20and%20Editing%20Feature%20Layers.md)  
+[<<< Previous](Part2.md) | [Next >>>](Part4.md)  
