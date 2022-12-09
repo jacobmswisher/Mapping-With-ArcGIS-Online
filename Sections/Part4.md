@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%203%20-%20Gathering%20Spatial%20Data.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%205%20-%20Inquiry%20with%20Spatial%20Data.md)  
+[<<< Previous](Part3.md) | [Next >>>](Part5.md)  
 
 ## Part 4: Creating and Editing Feature Layers
 
@@ -194,4 +194,4 @@ Go ahead and delete the point for the Hesburgh Library now.
 
 **Task: On your own, create a feature layer with point, line, and/or polygon geometry in ArcGIS Online using the Content Tab. Choose whatever theme you want for your layer or, alternatively, create a layer with random features. Include at least five features and at least two attribute fields in your dataset.**
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%203%20-%20Gathering%20Spatial%20Data.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%205%20-%20Inquiry%20with%20Spatial%20Data.md)  
+[<<< Previous](Part3.md) | [Next >>>](Part5.md)  
