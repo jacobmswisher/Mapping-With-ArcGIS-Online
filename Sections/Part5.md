@@ -35,7 +35,7 @@ SQL expressesions select features from a feature layer where the information in 
 In computational terms, an SQL expression does three things:
 1. SELECT features 
 2. FROM feature layer 
-3. WHERE [Field][Condition]
+3. WHERE [Field][Condition][Value]
 
 In an SQL expression, the [Condition] consists of a Boolean Operator (ex. is, and, or, less than, greater than) and a value.
 
