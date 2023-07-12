@@ -14,7 +14,7 @@ To start working in ArcGIS Online, head to the sign-in page at [https://www.arcg
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%204.JPG">
 </p>
 
-At the sign-in page, you'll need to log on with the organizational login assigned to you by your system administrator. **For ND users, your username is your own version of netid_NotreDame. Just substitute your netid into the template.** If you do not have an organizational login, you can create a free account which will give you access to a limited number of features on ArcGIS Online.
+At the sign-in page, you'll need to log on with the organizational login assigned to you by your system administrator. **For ND users, your username is your own version of netid_NotreDame. Just substitute your netid into the template.** If you do not have an organizational login, you can create a free account which will give you access to a limited number of features on ArcGIS Online or a 21-day trial account that will give you access to all of the tools in ArcGIS Online for the duration of the trial period.
 
 ### Step 2: Explore the Content Tab
 
