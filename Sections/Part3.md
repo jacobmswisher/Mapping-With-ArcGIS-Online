@@ -95,7 +95,7 @@ Now that you have examined the metadata for World Countries, it's time to add th
 Go ahead and add World Countries to your Map Viewer.
 
 <p align="center">
-  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2013.JPG">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2013.jpg">
 </p>
 
 Congratulations! You have succesfully added your first layer to the Map Viewer! Your Map Viewer should look like this:
