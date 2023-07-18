@@ -138,7 +138,7 @@ At this point, you may be wondering how to change the **symbology** of layers in
 
 **Symbology** - The visual characteristics of mapped features, including color, icon, outline, etc.
 
-You can adjust using the styles tool on the right-hand toolbar. We will cover symbology in greater detail in [Part 7](#part-6-data-visualization-in-arcgis-online) of this workshop.
+You can adjust using the styles tool on the right-hand toolbar. We will cover symbology in greater detail in [Part 6](#part-6-data-visualization-in-arcgis-online) of this workshop.
 
 <br>
 <p align="center">
