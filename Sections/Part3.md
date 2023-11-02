@@ -206,6 +206,8 @@ When you add the zipped Administrative Forest Boundaries folder to the new item 
 
 Make sure ArcGIS Online has identified the item type for the zipped Administrative Forest Boundaries folder as a shape file, then choose the option to add Administrative Forest Boundaries.zip and create a hosted feature layer and click next.
 
+**Note: If you encounter an error stating that your layer already exists, it may exist either in your content folder or in the content folder of another member of the Notre Dame ArcGIS Online organization. If this occurs, rename the zipped folder to include a unique identifier, such as the date or your initials.**
+
 Before ArcGIS Online saves the feature class to your Content Tab, the platform will provide you with an opportunity to change the name of the feature class, assign the feature class to a file folder, add tags (which can help you effeciently search through your content), and add initial metadata to the file.
 
 <p align="center">
