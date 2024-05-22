@@ -17,15 +17,3 @@ After completing this workshop, you will be able to:
 1. Gather, create, manage and display spatial data in ArcGIS Online.
 2. Use the filters tool to ask questions with spatial data.
 3. Create data visualizations using the styles and print tools.
-
-## Table of Contents
-
-1. [Geographic Information Systems - An Overview](Sections/Part1.md)
-2. [Getting to Know ArcGIS Online](Sections/Part2.md)
-3. [Gathering Spatial Data](Sections/Part3.md)
-4. [Creating and Editing Feature Layers](Sections/Part4.md)
-5. [Inquiry with Spatial Data](Sections/Part5.md)
-6. [Data Visualization in ArcGIS Online](Sections/Part6.md)
-7. [Resources](Sections/Part7.md)
-
-[Get Started >>>](Sections/Part1.md)  
