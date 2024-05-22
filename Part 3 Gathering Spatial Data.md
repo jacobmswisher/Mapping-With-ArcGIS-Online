@@ -7,8 +7,6 @@ Now that you have taken some time to explore the [Map Viewer](https://notredame.
 
 ## Method 1: Searcing for Data with ArcGIS Online
 
-# TEST TEXT ADDITION
-
 As the saying goes, work smarter, not harder. This philosophy applies in the world of GIS where, luckily for you, thousands of universities, government agencies, and individual people have already created many different datasets and made them available to the public. Additionally, through your organizational account, you also have access to ESRI's [Living Atlas](https://livingatlas.arcgis.com/en/home/) which contains various large datasets curated by ESRI.
 
 When working with GIS data, its always a good idea to determine if somebody else has already created the thing you need for your project and to save yourself considerable amounts of time by not having to create datasets on your own. One of the strengths of ArcGIS Online's Map Viewer is the ability to search for layers in the Living Atlas as well as those published by other ArcGIS Online users.
