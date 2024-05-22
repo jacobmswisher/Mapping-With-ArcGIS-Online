@@ -10,6 +10,10 @@ To create a new, editable feature layer, navigate to the Content Tab, click the 
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2025.JPG" alt="">
 
+ 
+
+<figure><img src=".gitbook/assets/Figure 25.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 Select the option to define your own layer, then click the next button.
@@ -21,6 +25,10 @@ In the create a feature layer window, assign your new layer a name (ex. places\_
 <div align="center">
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2026.JPG" alt="">
+
+ 
+
+<figure><img src=".gitbook/assets/Figure 26.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -47,6 +55,10 @@ To add fields, start by clicking navigating to the data tab from the content pag
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2027.JPG" alt="">
 
+ 
+
+<figure><img src=".gitbook/assets/Figure 27.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 In the upper-right hand corner, use the fields button to switch from the table view to the field list view. Then, click the add button on the left to create your first field.
@@ -54,6 +66,10 @@ In the upper-right hand corner, use the fields button to switch from the table v
 <div align="center">
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2028.JPG" alt="">
+
+ 
+
+<figure><img src=".gitbook/assets/Figure 28.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -79,6 +95,10 @@ _Tip: It's generally a good idea to enable the allow null Values option. Null va
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2029.JPG" alt="">
 
+ 
+
+<figure><img src=".gitbook/assets/Figure 29.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 After adding a field for the name of features in places\_I\_visited, add a second field that will contain information for the date you visited each place.
@@ -93,6 +113,10 @@ After creating fields for your new feature layer, you need to make sure that the
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2030.JPG" alt="">
 
+ 
+
+<figure><img src=".gitbook/assets/Figure 30.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 Navigate to the settings tab for places\_I\_visited. Then, scroll down the page until you find the editing settings.
@@ -100,6 +124,10 @@ Navigate to the settings tab for places\_I\_visited. Then, scroll down the page 
 <div align="center">
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2031.JPG" alt="">
+
+ 
+
+<figure><img src=".gitbook/assets/Figure 31.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -123,6 +151,10 @@ Once you are in the Map Viewer, open the editor tool by clicking the edit button
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2032.JPG" alt="">
 
+ 
+
+<figure><img src=".gitbook/assets/Figure 32.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 The editor tool allows you to create, edit, and delete features in a feature layer. You can create features by clicking the new feature button and can edit or delete features via the select button (editing after we create our first feature). The filter types function comes into play when editing group layers.
@@ -135,6 +167,10 @@ Click the new feature button to start creating your first feature.
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2033.JPG" alt="">
 
+ 
+
+<figure><img src=".gitbook/assets/Figure 33.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 After you click the new feature button, your cursor will transform into a data creation tool allowing you to create a new point feature by clicking anywhere on the map. We are going to start by creating a point for the Hesburgh Library at the University of Notre Dame in South Bend, Indiana.
@@ -145,11 +181,15 @@ Zoom in on the map, find the Hesburgh Library, and click on the center of the li
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2034.JPG" alt="">
 
+ 
+
+<figure><img src=".gitbook/assets/Figure 34.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 **Note: After creating a new feature, ArcGIS Online will allow you to keep creating additional features in the Map Viewer until you exit the create feature tool.**
 
-Congratulations! You have succesfully created a new feature in ArcGIS Online. If you want, you can open the attribute table for places\_I\_visited to look at the attribute information for the feature.
+Congratulations! You have successfully created a new feature in ArcGIS Online. If you want, you can open the attribute table for places\_I\_visited to look at the attribute information for the feature.
 
 ## Exercise 4: Creating More Features
 
@@ -165,6 +205,10 @@ To edit and delete features, click the select button in the Editor tool.
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2035.JPG" alt="">
 
+ 
+
+<figure><img src=".gitbook/assets/Figure 35.jpg" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 Then, click on the point for the Hesburgh Library to manage the feature. Let's practice editing the feature by adjusting the date visited field. Change the date field to reflect that you visited the Hesburgh Library early in the morning at 6:00 AM. Then, click the update button to save your changes.
@@ -172,6 +216,10 @@ Then, click on the point for the Hesburgh Library to manage the feature. Let's p
 <div align="center">
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2036.JPG" alt="">
+
+ 
+
+<figure><img src=".gitbook/assets/Figure 36.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -184,6 +232,10 @@ Go ahead and delete the point for the Hesburgh Library now.
 <div align="center">
 
 <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Online/Figure%2037.JPG" alt="">
+
+ 
+
+<figure><img src=".gitbook/assets/Figure 37.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
