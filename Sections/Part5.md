@@ -75,7 +75,7 @@ Then, save the expression to apply the filter to Administrative Forest Boundarie
 
 After saving the expression, you will notice a visual change in the Map Viewer. When you save a filter, the Map Viewer will hide all of the features that don't meet the parameters of the filter's SQL expression. However, this is unhelpful when you need to know the exact number of features that meet the parameters of your SQL expression. To view a list of the features selected by the filter tool, simply open the attribute table.
 
-*Tip: Filters can be useful for more than just inquiry. By using filters creatively, you can create a series of differnt data visualizations using the same feature class.*
+*Tip: Filters can be useful for more than just inquiry. By using filters creatively, you can create a series of different data visualizations using the same feature class.*
 
 As you'll notice, the attribute table has changed to reflect the application of a filter to the feature class. In the attribute table, you can view a list of all selected feature and, by looking at the top of the table, you can determine how many features met the parameters of your selection (46 in this case).
 
